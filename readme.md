@@ -19,7 +19,7 @@ ___
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-## commnads for @BotFather:
+## commands for @BotFather:
 ```
 start - 📜 welcome message 
 help - 😉 like start message
@@ -30,7 +30,6 @@ my_files - 📁 files manager
 cd - 🗃 change working dir
 ```
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moshe-coh&repo=Terminal-Bot)
 
 ## Todo
 - [X]  Add option to download files...
